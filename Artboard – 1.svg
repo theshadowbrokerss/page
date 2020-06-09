@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="110" viewBox="0 0 420 110">
+  <defs>
+    <clipPath id="clip-Artboard_1">
+      <rect width="420" height="110"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <rect width="420" height="110" fill="#fff"/>
+    <text id="the_shadow_brokers" data-name="the shadow brokers" transform="translate(11 102)" fill="#101010" font-size="30" font-family="HackerNoonV1-Regular, Hacker Noon V1"><tspan x="0" y="0">the shadow brokers</tspan></text>
+    <g id="Group_2" data-name="Group 2" transform="translate(-180 -353.117)">
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="9.098" cy="9.098" r="9.098" transform="translate(380.885 380.885)" fill="#141414"/>
+      <path id="Path_1" data-name="Path 1" d="M397.492,410.457c2.778,0,5.478-.08,8.06-.235-.883,14.877-4.156,25.923-8.06,25.923s-7.176-11.046-8.059-25.923C392.015,410.377,394.715,410.457,397.492,410.457Z" transform="translate(-7.51 -12.179)" fill="none" stroke="#141414" stroke-miterlimit="10" stroke-width="2.761"/>
+      <path id="Path_2" data-name="Path 2" d="M397.492,381.688c-2.777,0-5.477.081-8.059.236.883-14.877,4.155-25.923,8.059-25.923s7.177,11.046,8.06,25.923C402.97,381.768,400.271,381.688,397.492,381.688Z" transform="translate(-7.51)" fill="none" stroke="#141414" stroke-miterlimit="10" stroke-width="2.761"/>
+      <path id="Path_3" data-name="Path 3" d="M401.723,409.761a100.6,100.6,0,0,0,13.221-1.593c-1.924,15.675-10.72,27.516-21.281,27.516s-19.357-11.841-21.28-27.516a100.6,100.6,0,0,0,13.221,1.593c2.582.155,5.282.235,8.059.235S399.141,409.916,401.723,409.761Z" transform="translate(-3.68 -11.718)" fill="none" stroke="#141414" stroke-miterlimit="10" stroke-width="2.761"/>
+      <path id="Path_4" data-name="Path 4" d="M385.6,381.923a100.748,100.748,0,0,0-13.221,1.592C374.306,367.841,383.1,356,393.662,356s19.357,11.841,21.281,27.515a100.748,100.748,0,0,0-13.221-1.592c-2.582-.155-5.282-.236-8.06-.236S388.185,381.768,385.6,381.923Z" transform="translate(-3.68)" fill="none" stroke="#141414" stroke-miterlimit="10" stroke-width="2.761"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="34" cy="34" r="34" transform="translate(356.117 356.117)" fill="none" stroke="#141414" stroke-miterlimit="10" stroke-width="3.106"/>
+      <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="33.983" cy="21.674" rx="33.983" ry="21.674" transform="translate(356 368.309)" fill="none" stroke="#141414" stroke-miterlimit="10" stroke-width="2.761"/>
+      <path id="Path_5" data-name="Path 5" d="M423.966,397.424c0,2.615-4.956,4.948-12.7,6.467a100.6,100.6,0,0,1-13.221,1.593c-2.582.155-5.282.235-8.06.235s-5.477-.08-8.059-.235a100.6,100.6,0,0,1-13.221-1.593c-7.747-1.52-12.7-3.853-12.7-6.467s4.955-4.947,12.7-6.467a100.748,100.748,0,0,1,13.221-1.592c2.582-.155,5.282-.236,8.059-.236s5.478.081,8.06.236a100.748,100.748,0,0,1,13.221,1.592C419.011,392.477,423.966,394.81,423.966,397.424Z" transform="translate(0 -7.441)" fill="none" stroke="#141414" stroke-miterlimit="10" stroke-width="2.761"/>
+    </g>
+  </g>
+</svg>
